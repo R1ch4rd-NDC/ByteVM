@@ -1,0 +1,11 @@
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\obj\Debug\ByteVM.csproj.AssemblyReference.cache
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\obj\Debug\ByteVM.csproj.CoreCompileInputs.cache
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\bin\Debug\ByteVM.dll
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\bin\Debug\ByteVM.pdb
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\bin\Debug\ByteVM.Runtime.dll
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\bin\Debug\dnlib.dll
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\bin\Debug\ByteVM.Runtime.pdb
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\bin\Debug\dnlib.xml
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\obj\Debug\ByteVM.csproj.Up2Date
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\obj\Debug\ByteVM.dll
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM\obj\Debug\ByteVM.pdb

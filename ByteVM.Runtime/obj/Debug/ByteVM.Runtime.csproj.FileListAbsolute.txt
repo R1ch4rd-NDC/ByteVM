@@ -1,0 +1,6 @@
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM.Runtime\bin\Debug\ByteVM.Runtime.dll
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM.Runtime\bin\Debug\ByteVM.Runtime.pdb
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM.Runtime\obj\Debug\ByteVM.Runtime.csproj.AssemblyReference.cache
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM.Runtime\obj\Debug\ByteVM.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM.Runtime\obj\Debug\ByteVM.Runtime.dll
+C:\Users\R1ch3rd\Desktop\ByteVM\ByteVM\ByteVM.Runtime\obj\Debug\ByteVM.Runtime.pdb

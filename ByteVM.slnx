@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/TestTarget/TestTarget.csproj" />
+    <Project Path="Tests/TryCatchFinally/TryCatchFinally.csproj" />
+  </Folder>
+  <Project Path="ByteVM.Console/ByteVM.Console.csproj" />
+  <Project Path="ByteVM.Runtime/ByteVM.Runtime.csproj" />
+  <Project Path="ByteVM/ByteVM.csproj" />
+</Solution>
